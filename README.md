@@ -6,6 +6,8 @@ A full-stack Todo application featuring a React/Vite frontend and an Express/Nod
 
 📹 [Watch the UI Demo Video](https://drive.google.com/file/d/15kMq-R-dAwx4aRCp7EmSj-wugn936jT6/view?usp=sharing)
 
+📹 [Watch the Project Flow Video](https://drive.google.com/file/d/115OkYtxhsAqO_n2dLv4qvNmB_ZlLrJ8u/view?usp=sharing)
+
 ## Tech Stack
 
 - **Frontend**: React, Vite, TailwindCSS
