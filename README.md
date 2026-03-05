@@ -2,6 +2,10 @@
 
 A full-stack Todo application featuring a React/Vite frontend and an Express/Node.js backend. The project is managed from a single root directory using `concurrently` to run both the client and server applications simultaneously during development.
 
+## Demo
+
+📹 [Watch the UI Demo Video](https://drive.google.com/file/d/15kMq-R-dAwx4aRCp7EmSj-wugn936jT6/view?usp=sharing)
+
 ## Tech Stack
 
 - **Frontend**: React, Vite, TailwindCSS
